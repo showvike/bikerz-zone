@@ -2,6 +2,15 @@
   background-color: #ff000030;
 }
 
-.rate-icon {
+.rating-icon {
   width: 20px;
+}
+
+.btn-bz-danger {
+  background-color: #fc7faa;
+  color: white;
+}
+
+.w-25 {
+  width: 75% !important;
 }
